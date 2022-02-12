@@ -122,22 +122,23 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Osmania University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Statics",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      logo: require("./assets/images/osmania-university-squarelogo.png"),
+      subHeader: "Master of Science in Statistics",
+      duration: "July 2006 - April 2008",
+      desc: "University College of Science Osmania University Campus - M.Sc. Applied Statistics",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Computer Science and Information Technology",
+        "Data analytics and reporting",
+        "Investigate the computational limits of the algorithms and data structures that support complex software systems"
       ]
     },
     {
-      schoolName: "Stanford University",
+      schoolName: "Ramakrishna Ramakrishna Degree College",
       logo: require("./assets/images/stanfordLogo.png"),
       subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      duration: "June 2003 - March 2006",
+      desc: "Bachelor of Science - M.S.Cs",
+      descBullets: ["Computer science with mathematics and statistics gives students the flexibility to combine a traditional computer science degree"]
     }
   ]
 };
@@ -153,7 +154,7 @@ const techStack = {
     },
     {
       Stack: "Backend",
-      progressPercentage: "80%"
+      progressPercentage: "90%"
     },
     {
       Stack: "Programming",
@@ -169,8 +170,8 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
+      role: "Senior IT Executive Coordinator",
+      company: "Hesabe",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "June 2018 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -355,7 +356,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+91 9949207896",
+  number: "WhatsApp +91 9949207896",
   email_address: "bmahesh4it@gmail.com"
 };
 
