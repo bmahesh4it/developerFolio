@@ -134,11 +134,11 @@ const educationInfo = {
     },
     {
       schoolName: "Ramakrishna Ramakrishna Degree College",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/kakatiya-university-logo.jpg"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "June 2003 - March 2006",
       desc: "Bachelor of Science - M.S.Cs",
-      descBullets: ["Computer science with mathematics and statistics gives students the flexibility to combine a traditional computer science degree"]
+      descBullets: ["Computer science with mathematics and statistics gives flexibility to combine a traditional computer science degree"]
     }
   ]
 };
@@ -172,27 +172,36 @@ const workExperiences = {
     {
       role: "Senior IT Executive Coordinator",
       company: "Hesabe",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      companylogo: require("./assets/images/Hesabe-Logo.png"),
+      date: "Feb 2019 – Present",
+      desc: "Hesabe is an innovative payment solutions Payment Process Integration",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Invoice Payment Solutions - Ideal solution for collecting customized amounts",
+        "Integrate online stores with Hesabe payment processor for easy checkout.",
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Tech Lead",
+      company: "Viola Services (India) Private Limited",
+      companylogo: require("./assets/images/viola-logo.png"),
+      date: "May 2017 – February 2019",
+      desc: "Viola wallet offers easy and secure access to financial services with the ability to send/receive money, Pay bills and organize finances.",
+      
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Senior Web Developer",
+      company: "Henceforth Software Technologies",
+      companylogo: require("./assets/images/henceforth-logo.png"),
+      date: "Dec 2014 – May 2017",
+      desc: "E-commerce development, website designing, programming and producing great looking, profitable websites built on durable, robust systems.",      
+    },
+    {
+      role: "Software Engineer",
+      company: "Ritwik Software Technologies",
+      companylogo: require("./assets/images/ritwik-logo.png"),
+      date: "Jun 2010 – Dec 2014",
+      desc: "Ritwik Software Technologies Pvt. Ltd. is an affiliate of Youngsoft Inc, Ritwik is a full-service IT technology and consulting company based in Hyderabad, India. A tier 1 city, which offers a large pool of experienced resources in all technologies and has a good understanding of international cultures. Together with Youngsoft, Ritwik offers 24/7 operations to US clients.",
+     
     }
   ]
 };
