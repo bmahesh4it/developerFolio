@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6348fdb4c5cfa923ecc5d50f1ff01cbd",
+    "revision": "625172b7b86931e02c4eb655a90dbdfa",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "3476f583a5aa2830137b",
+    "revision": "df76d057a3de75e21e09",
     "url": "/static/css/main.66262938.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.afe8fb20.chunk.js"
   },
   {
-    "revision": "3476f583a5aa2830137b",
-    "url": "/static/js/main.febe72a6.chunk.js"
+    "revision": "df76d057a3de75e21e09",
+    "url": "/static/js/main.a415f2d1.chunk.js"
   },
   {
     "revision": "156be3ff15eb2069e10d",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Agustina.21f233e1.woff"
   },
   {
-    "revision": "0306c71fdd2c4f388d106ac022b04aaa",
-    "url": "/static/media/Hesabe-Logo.0306c71f.png"
+    "revision": "700f634ebc609922ade77ebe17e65871",
+    "url": "/static/media/Hesabe-Logo.700f634e.png"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -68,6 +68,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
+    "revision": "af8a7a58ca25e4f851e6a2b254af6797",
+    "url": "/static/media/henceforth-logo.af8a7a58.png"
+  },
+  {
     "revision": "565e7501b5864127b5be17f30027021c",
     "url": "/static/media/kakatiya-university-logo.565e7501.jpg"
   },
@@ -88,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pwaLogo.ee62cb58.webp"
   },
   {
-    "revision": "5eb0267ce96d8daef68db79c3e806cea",
-    "url": "/static/media/ritwik-logo.5eb0267c.png"
+    "revision": "f9ae354399b650fa812ed53a84b4c673",
+    "url": "/static/media/ritwik-logo.f9ae3543.png"
   },
   {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",

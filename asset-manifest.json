@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.66262938.chunk.css",
-    "main.js": "/static/js/main.febe72a6.chunk.js",
-    "main.js.map": "/static/js/main.febe72a6.chunk.js.map",
+    "main.js": "/static/js/main.a415f2d1.chunk.js",
+    "main.js.map": "/static/js/main.a415f2d1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.482eef13.js",
     "runtime-main.js.map": "/static/js/runtime-main.482eef13.js.map",
     "static/js/2.5d293083.chunk.js": "/static/js/2.5d293083.chunk.js",
@@ -14,24 +14,25 @@
     "static/js/4.afe8fb20.chunk.js": "/static/js/4.afe8fb20.chunk.js",
     "static/js/4.afe8fb20.chunk.js.map": "/static/js/4.afe8fb20.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e30c7db0327cbe4774da04ffbac0d882.js": "/precache-manifest.e30c7db0327cbe4774da04ffbac0d882.js",
+    "precache-manifest.e7ce68479d1f8cf25a4509e05aa40689.js": "/precache-manifest.e7ce68479d1f8cf25a4509e05aa40689.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
     "static/css/main.66262938.chunk.css.map": "/static/css/main.66262938.chunk.css.map",
     "static/js/2.5d293083.chunk.js.LICENSE.txt": "/static/js/2.5d293083.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/Hesabe-Logo.png": "/static/media/Hesabe-Logo.0306c71f.png",
+    "static/media/Hesabe-Logo.png": "/static/media/Hesabe-Logo.700f634e.png",
     "static/media/codeInLogo.webp": "/static/media/codeInLogo.47a7a717.webp",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
     "static/media/googleAssistantLogo.webp": "/static/media/googleAssistantLogo.e79c6392.webp",
+    "static/media/henceforth-logo.png": "/static/media/henceforth-logo.af8a7a58.png",
     "static/media/kakatiya-university-logo.jpg": "/static/media/kakatiya-university-logo.565e7501.jpg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
     "static/media/osmania-university-squarelogo.png": "/static/media/osmania-university-squarelogo.0472e791.png",
     "static/media/pwaLogo.webp": "/static/media/pwaLogo.ee62cb58.webp",
-    "static/media/ritwik-logo.png": "/static/media/ritwik-logo.5eb0267c.png",
+    "static/media/ritwik-logo.png": "/static/media/ritwik-logo.f9ae3543.png",
     "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
     "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg",
@@ -41,6 +42,6 @@
     "static/js/runtime-main.482eef13.js",
     "static/js/2.5d293083.chunk.js",
     "static/css/main.66262938.chunk.css",
-    "static/js/main.febe72a6.chunk.js"
+    "static/js/main.a415f2d1.chunk.js"
   ]
 }
