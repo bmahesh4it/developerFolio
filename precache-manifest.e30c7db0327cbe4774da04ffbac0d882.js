@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c457efb4d686818cb76ffb46998c0a2",
+    "revision": "6348fdb4c5cfa923ecc5d50f1ff01cbd",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "ec4de7b341394679d698",
+    "revision": "3476f583a5aa2830137b",
     "url": "/static/css/main.66262938.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.afe8fb20.chunk.js"
   },
   {
-    "revision": "ec4de7b341394679d698",
-    "url": "/static/js/main.fb875689.chunk.js"
+    "revision": "3476f583a5aa2830137b",
+    "url": "/static/js/main.febe72a6.chunk.js"
   },
   {
     "revision": "156be3ff15eb2069e10d",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "0306c71fdd2c4f388d106ac022b04aaa",
+    "url": "/static/media/Hesabe-Logo.0306c71f.png"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -98,5 +102,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
     "url": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  {
+    "revision": "a800925b9fe2eab4e3dc67812c1249fd",
+    "url": "/static/media/viola-logo.a800925b.png"
   }
 ]);

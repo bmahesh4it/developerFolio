@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.66262938.chunk.css",
-    "main.js": "/static/js/main.fb875689.chunk.js",
-    "main.js.map": "/static/js/main.fb875689.chunk.js.map",
+    "main.js": "/static/js/main.febe72a6.chunk.js",
+    "main.js.map": "/static/js/main.febe72a6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.482eef13.js",
     "runtime-main.js.map": "/static/js/runtime-main.482eef13.js.map",
     "static/js/2.5d293083.chunk.js": "/static/js/2.5d293083.chunk.js",
@@ -14,13 +14,14 @@
     "static/js/4.afe8fb20.chunk.js": "/static/js/4.afe8fb20.chunk.js",
     "static/js/4.afe8fb20.chunk.js.map": "/static/js/4.afe8fb20.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c115c21987a8bfd5f73b403fd8cf5c1e.js": "/precache-manifest.c115c21987a8bfd5f73b403fd8cf5c1e.js",
+    "precache-manifest.e30c7db0327cbe4774da04ffbac0d882.js": "/precache-manifest.e30c7db0327cbe4774da04ffbac0d882.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
     "static/css/main.66262938.chunk.css.map": "/static/css/main.66262938.chunk.css.map",
     "static/js/2.5d293083.chunk.js.LICENSE.txt": "/static/js/2.5d293083.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Hesabe-Logo.png": "/static/media/Hesabe-Logo.0306c71f.png",
     "static/media/codeInLogo.webp": "/static/media/codeInLogo.47a7a717.webp",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
@@ -33,12 +34,13 @@
     "static/media/ritwik-logo.png": "/static/media/ritwik-logo.5eb0267c.png",
     "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
-    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
+    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg",
+    "static/media/viola-logo.png": "/static/media/viola-logo.a800925b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.482eef13.js",
     "static/js/2.5d293083.chunk.js",
     "static/css/main.66262938.chunk.css",
-    "static/js/main.fb875689.chunk.js"
+    "static/js/main.febe72a6.chunk.js"
   ]
 }
