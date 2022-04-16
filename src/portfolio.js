@@ -233,7 +233,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/viola-money.png"),
+      image: require("./assets/images/viola-money.jpg"),
       projectName: "Viola Money",
       projectDesc: "Modern financial products for the modern financial world.",
       footerLink: [
