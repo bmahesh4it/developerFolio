@@ -150,15 +150,15 @@ const techStack = {
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "50%" //Insert relative proficiency in percentage
+      progressPercentage: "80%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Backend",
-      progressPercentage: "90%"
+      progressPercentage: "100%"
     },
     {
       Stack: "Programming",
-      progressPercentage: "90%"
+      progressPercentage: "100%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -242,6 +242,17 @@ const bigProjects = {
           url: "https://violamoney.com/"
         }
       ]
+    },
+    {
+      image: require("./assets/images/stanfordLogo.png"),
+      projectName: "TouchHealth",
+      projectDesc: "Touch Health creates systems that improve clinical outcomes and patient satisfaction by enhancing the doctor-patient relationship and by facilitating communication across the healthcare continuum. It's an openly available, free, HIPAA-compliant web mail network and services for individuals to large health care practices. Communicate simply and securely among patients, physicians and staff without being restricted by your electronic health record.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://touchhealth.com/"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -257,22 +268,22 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "AWS Cloud Practitioner Essentials",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+        "This course is for individuals who seek an overall understanding of the Amazon Web Services (AWS) Cloud, independent of specific technical roles. ",
+      image: require("./assets/images/aws-certificate.png"),
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://drive.google.com/file/d/1D6NbL-UXePoXIee47T6Lcm7GinYZHv5H/view"
         },
         {
           name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+          url: "https://drive.google.com/file/d/1D6NbL-UXePoXIee47T6Lcm7GinYZHv5H/view"
         },
         {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "About this course",
+          url: "https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials"
         }
       ]
     },
@@ -306,7 +317,7 @@ const achievementSection = {
 };
 
 // Blogs Section
-
+/**
 const blogSection = {
   title: "Blogs",
   subtitle:
@@ -328,7 +339,7 @@ const blogSection = {
   ],
   display: true // Set false to hide this section, defaults to true
 };
-
+**/
 // Talks Sections
 
 const talkSection = {
