@@ -288,27 +288,27 @@ const achievementSection = {
             ]
         },
         {
-            title: "Google Assistant Action",
+            title: "Mastering Agile & Scrum: From Beginner to Expert",
             subtitle:
-                "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+                "Completed Certification from Udemy for Mastering Agile & Scrum: From Beginner to Expert.",
             image: require("./assets/images/googleAssistantLogo.webp"),
             footerLink: [
                 {
-                    name: "View Google Assistant Action",
-                    url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+                    name: "View Certification",
+                    url: "https://udemy-certificate.s3.amazonaws.com/image/UC-f6378d41-2028-46da-a692-0e5954197b61.jpg"
                 }
             ]
         },
 
         {
-            title: "PWA Web App Developer",
-            subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-            image: require("./assets/images/pwaLogo.webp"),
+            title: "Mastering Agile & Scrum: From Beginner to Expert",
+            subtitle: "Completed Certification from Udemy for Mastering Agile & Scrum",
+            image: require("./assets/images/googleAssistantLogo.webp"),
             footerLink: [
-                {name: "Certification", url: ""},
+                {name: "Certification", url: "https://udemy-certificate.s3.amazonaws.com/image/UC-f6378d41-2028-46da-a692-0e5954197b61.jpg"},
                 {
                     name: "Final Project",
-                    url: "https://pakistan-olx-1.firebaseapp.com/"
+                    url: "https://www.udemy.com/course/mastering-agile-scrum-from-beginner-to-expert/"
                 }
             ]
         }
