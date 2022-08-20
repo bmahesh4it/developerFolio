@@ -301,14 +301,14 @@ const achievementSection = {
         },
 
         {
-            title: "Mastering Agile & Scrum: From Beginner to Expert",
-            subtitle: "Completed Certification from Udemy for Mastering Agile & Scrum",
+            title: "Building RESTful APIs in Laravel",
+            subtitle: "Completed Certification from LinkedIn for Building RESTful APIs",
             image: require("./assets/images/googleAssistantLogo.webp"),
             footerLink: [
-                {name: "Certification", url: "https://udemy-certificate.s3.amazonaws.com/image/UC-f6378d41-2028-46da-a692-0e5954197b61.jpg"},
+                {name: "View Certification", url: "Building RESTful APIs in Laravel"},
                 {
-                    name: "Final Project",
-                    url: "https://www.udemy.com/course/mastering-agile-scrum-from-beginner-to-expert/"
+                    name: " Profile",
+                    url: "https://www.linkedin.com/in/mahesh-bairi-2a847b29/"
                 }
             ]
         }
