@@ -271,7 +271,7 @@ const achievementSection = {
       title: "AWS Cloud Practitioner Essentials",
       subtitle:
         "This course is for individuals who seek an overall understanding of the Amazon Web Services (AWS) Cloud, independent of specific technical roles. ",
-      image: require("./assets/images/aws-certificate.png"),
+      image: require("./assets/images/googleAssistantLogo.webp"),
       footerLink: [
         {
           name: "Certification",
